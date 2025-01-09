@@ -49,3 +49,4 @@ client.on('interactionCreate', async interaction => {
 
 // Log in to Discord using the token from config.json
 client.login(token);
+ 
