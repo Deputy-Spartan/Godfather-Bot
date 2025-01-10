@@ -1,6 +1,6 @@
 const { Client, Collection, GatewayIntentBits } = require('discord.js');
 const fs = require('fs');
-const path = require('path'); test
+const path = require('path');
 
 // Load the token from config.json
 require('dotenv').config();
